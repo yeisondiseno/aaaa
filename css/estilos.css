@@ -3,3 +3,15 @@ body{
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.container{
+    width: 70%;
+    text-align: left;
+    padding: 1em;
+    margin: 1em auto;
+    border: 1px solid #ddd;
+}
+
+.container h1{
+    font-size: 20px;
+}
