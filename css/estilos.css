@@ -31,6 +31,16 @@ body{
     font-size: 20px;
 }
 
+.footer{
+    background-color: #33A;
+    text-align: center;
+    font-size: 14px;
+    font-weight: lighter;
+    color: #fff;
+    padding: 0.5em;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.4);
+}
+
 .post{
     padding: 1em;
 }
